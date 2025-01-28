@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "D": {
+      "item": "doubloons:doubloon"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "pattern": [
+    " D ",
+    "DGD",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "doubloons:bartering_block"
+  }
+}

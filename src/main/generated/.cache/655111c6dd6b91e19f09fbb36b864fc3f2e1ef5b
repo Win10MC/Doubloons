@@ -1,0 +1,8 @@
+// 1.21.1	2025-01-27T21:14:36.4988878	Doubloons/Model Definitions
+3ae9c63f4cf9852fd6a36ea1d3a352b944cc5afd assets\doubloons\models\item\doubloon.json
+9913953b3c57f063e6254a1d39a495f763d0c64a assets\doubloons\models\block\doubloon_block.json
+d2b8e74a138b32410732dc367dfb45615c518d7c assets\doubloons\models\item\doubloon_block.json
+7ff98c928b7cbc997dfce932550a9dc97a622223 assets\doubloons\blockstates\bartering_block.json
+1a007ca5f49efd07e9ce638204c7ad295bc8e0e9 assets\doubloons\blockstates\doubloon_block.json
+7d7cfba2136ae35cee0794a3ce764659529ac978 assets\doubloons\models\item\bartering_block.json
+9ab78d608f22aafd813db3ac707fc32cfd7157b0 assets\doubloons\models\block\bartering_block.json

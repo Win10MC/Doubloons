@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "doubloons",
+  "version": "${version}",
+  "name": "Doubloons",
+  "description": "",
+  "authors": ["Win10MC"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/doubloons/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.win10mc.doubloons.Doubloons"
+    ],
+    "client": [
+      "com.win10mc.doubloons.client.DoubloonsClient"
+    ],
+    "fabric-datagen": [
+      "com.win10mc.doubloons.DataGenerator"
+    ]
+  },
+  "mixins": [
+    "doubloons.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "doubloons:barterer_poi",
+      "required": false
+    }
+  ]
+}
