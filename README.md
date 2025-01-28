@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/2S3MjgR/doubloons.png)
+![Logo](https://github.com/Win10MC/Doubloons/blob/master/banner.png?raw=true)
 
 
 # Doubloons
